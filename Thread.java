@@ -1,4 +1,3 @@
-import java.io.*;
 import java.lang.Thread;
 
 class JoinExample2 {
